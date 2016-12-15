@@ -23,3 +23,4 @@ Import-Package: it.polito.elite.dog.core.library.jaxb;version="1.1.1",
  uk.ac.manchester.cs.owl.owlapi;version="3.4.3"
 Export-Package: it.polito.elite.dog.core.housemodel.api;version="1.2.0",
  it.polito.elite.dog.core.housemodel.semantic.api;version="1.1.0"
+Bundle-ActivationPolicy: lazy
